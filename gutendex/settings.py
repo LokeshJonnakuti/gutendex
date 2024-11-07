@@ -201,3 +201,4 @@ REST_FRAMEWORK = {
 
 # Cross-origin resource sharing with `corsheaders` middleware
 CORS_ALLOW_ALL_ORIGINS = True
+SESSION_COOKIE_SECURE = True
